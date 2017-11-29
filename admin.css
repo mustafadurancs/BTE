@@ -1,0 +1,71 @@
+body {
+    margin:0px;
+}
+#tablo_cerceve {
+    margin:0px auto;
+    width: 700px;
+    background: lightsteelblue;
+    border-radius: 0px 0px 10px 10px;
+}
+#tablo_cerceve caption {
+    background:darkslateblue;
+    padding: 10px;
+    color:white;
+    font-family: Verdana;
+    font-size:14pt;    
+}
+#tablo_cerceve ul {
+    list-style: inside;
+    background: darkslateblue;
+    border-radius:5px;
+    padding:5px 3px;
+    margin: 0px 3px;
+}
+#tablo_cerceve li {   
+    text-decoration: none;
+    font-family: Verdana;
+    font-size: 10pt;
+    background: darkblue;
+    color:white;
+    border-radius:3px;
+    margin:3px 0px;;
+    padding: 10px;
+}
+#tablo_cerceve a:link {
+    font-family: Verdana;
+    font-size: 10pt;
+    color:white;
+    text-decoration: none;
+    
+}
+#tablo_cerceve a:hover {
+    color:red;
+} 
+#tablo_cerceve a:visited {
+    background: navy;
+    color:white;
+}
+#tablo_users {
+    width:95%;
+    margin:auto;
+    background: darkgray;
+    padding: 3px;
+    border-radius: 3px;
+}
+#tablo_users th {
+    background:navy;
+    color:white;
+    padding: 8px;
+    border-radius: 1px;
+    margin: 0px;
+}
+#tablo_users td {
+    background: lightgray;
+    text-align: center;
+    font-family: Verdana;
+    font-size: 10pt;
+    padding: 5px;
+    border-radius: 2px;
+    margin:0px;
+    border:dotted thin darkgrey;
+}

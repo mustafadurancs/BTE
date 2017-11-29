@@ -1,0 +1,21 @@
+.takvim{
+    text-align: center;
+}
+#today {
+    background: red;
+    border-radius: 3px;
+    text-align: center;
+    color:white;
+    
+}
+caption {
+    color:black;
+}
+.randevu{
+    background: darkslategray;
+    border-radius: 3px;
+    text-align: center;
+    color:white;
+    padding:2px;
+    text-decoration: none;
+}
